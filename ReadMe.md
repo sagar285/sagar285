@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Sagar Gupta, a passionate developer with 4 years of experience in MERN stack technology. I enjoy exploring and mastering new technologies, which I also love to share through my YouTube channel, SimplyJS, where I have over 3k subscribers.<br><br>I have hands-on experience in building applications using modern technologies like GraphQL and microservices, which are essential components of today's MERN stack. When it comes to databases, MongoDB is my go-to choice, but I am also proficient in SQL-based systems like PostgreSQL and MySQL.<br><br>Through my journey, I aim to keep learning, growing, and helping others in the developer community.<br>
+Hi, I'm Sagar Gupta, a passionate developer with 4 years of experience in MERN stack technology. I enjoy exploring and mastering new technologies, which I also love to share through my YouTube channel, SimplyJS, where I have over 3.5k subscribers.<br><br>I have hands-on experience in building applications using modern technologies like GraphQL and microservices, which are essential components of today's MERN stack. When it comes to databases, MongoDB is my go-to choice, but I am also proficient in SQL-based systems like PostgreSQL and MySQL.<br><br>Through my journey, I aim to keep learning, growing, and helping others in the developer community.<br>
 
 
 ## 🌐 Socials:
